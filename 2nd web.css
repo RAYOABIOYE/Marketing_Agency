@@ -1,0 +1,978 @@
+body{
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    border-radius: 50px;
+    height: 2980px;
+}
+header li {
+    float: left;
+    list-style-type: none;
+
+}
+header li a{
+    color: red;
+}
+.light{
+    margin-left: 100px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+.CONSULT{
+    margin-left: 900px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.ght{
+    font-size: 100px;
+    margin-left: 150px;
+    margin-top: 150px;
+    
+}
+.way{
+    font-size: 100px;
+    margin-left: 980px;
+    margin-top: -220px;
+}
+.marketing{
+    font-size: 100px;
+    margin-top: -60px;
+    margin-left: 240px;
+}
+.DISCUSS{
+    margin-top: -100px;
+    font-size: 30px;
+    margin-left: 50px;
+}
+.DISCUSS a{
+    color: red;
+}
+ .team{
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.innovators{
+    margin-left: 450px;
+    margin-top: -80px;
+    font-size: 20px;
+} 
+ .menu{
+    margin-left: 900px;
+    margin-top: -80px;
+    font-size: 20px;
+    
+}
+.menu a{
+    color: white;
+    text-decoration-color: red;
+} 
+.problem{
+    font-size: 40px;
+    margin-top: 180px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+}
+.clients{
+    font-size: 50px;
+    color: red;
+}
+.ents{
+    font-size: 40px;
+}
+.in{
+    margin-left: 130px;
+}
+.p320{
+    margin-left: 750px;
+    margin-top: 100px;
+}
+.dash{
+    margin-left: 750px;
+    margin-top: -30px;
+} 
+.img1 img{
+    width: 450px;
+    height: 550px;
+    margin-top: -650px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    background-color: black;
+}
+.footer{
+    background-color: white;
+    height: 1500px;
+    border: 2px solid white;
+    border-radius: 0 0 45px 45px;
+} 
+.big{
+    font-size: 120px;
+    color: black;
+    margin-left: 30px;
+}
+.names{
+    color: orangered;
+    margin-left: 600px;
+    
+    
+} 
+.honored{
+    color: black;
+    margin-left: 600px;
+    margin-top: -350px;
+    font-size: 20px;
+}
+.journey{
+    color: black;
+    margin-left: 1000px;
+    margin-top: -75px;
+    font-size: 20px;
+} 
+.stories{
+    color: black;
+    margin-left: 400px;
+    margin-top: 45px;
+    font-size: 20px;
+}
+img{
+    margin-top: 100px;
+    height: 600px;
+    width: 1280px; 
+}
+.Explore{
+    color: black;
+    margin-left: 30px;
+} 
+.Google{
+    color: black;
+    font-size: 40px;
+    margin-left: 750px;
+    margin-top: -140px;
+}
+.arrow{
+    color: orangered;
+    font-size: 30px;
+}
+.strategy{
+    font-size: 15px;
+    margin-left: 250px;
+}
+.dash1{
+    color: black;
+    margin-left: 750px;
+    margin-top: -55px;
+}
+.Amazon{
+    color: black;
+    font-size: 40px;
+    margin-left: 750px;
+} 
+.advert{
+    font-size: 15px;
+    margin-left: 220px;
+}
+.branding{
+    font-size: 15px;
+    margin-left: 290px;
+}
+.media{
+    font-size: 15px;
+    margin-left: 260px;
+}
+.CASES a{
+    color: red;
+}
+.CASES{
+    margin-left: 30px;
+    margin-top: -40px;
+} 
+
+@media (min-width:758px) and (max-width:800px) {
+     body{
+        height: 2720px;
+    } 
+    
+    .light {
+        margin-left: 60px;
+    }
+    .CONSULT {
+        margin-left: 480px;
+        margin-top: 60px;
+    }
+    .ght {
+        margin-left: 50px;
+        font-size: 65px;
+    }
+    .way {
+        margin-left: 560px;
+        font-size: 65px;
+        margin-top: -130px;
+    }
+    .marketing {
+        font-size: 85px;
+        margin-left: 80px;
+    }
+    .DISCUSS {
+        margin-top: 20px;
+    }
+    .innovators {
+        margin-left: 300px;
+    }
+    .menu {
+        margin-left: 600px;
+    }
+    .problem{
+        font-size: 30px;
+    }
+    .clients{
+        font-size: 40px;
+        color: red;
+    }
+    .ents{
+        font-size: 30px;
+    }
+    .in{
+        margin-left: 150px;
+    }
+    .p320{
+        margin-left: 300px;
+        margin-top: 100px;
+    }
+    .dash{
+        margin-left: 300px;
+        margin-top: -30px;
+    } 
+    .img1 img{
+        width: 270px;
+        height: 500px;
+        margin-top: -650px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        background-color: black;
+    }
+    .footer{
+        background-color: white;
+        height: 1250px;
+        border: 2px solid white;
+        border-radius: 0 0 45px 45px;
+    } 
+    .big{
+        font-size: 70px;
+        color: black;
+        margin-left: 10px;
+    }
+    .names{
+        color: orangered;
+        margin-left: 250px;
+        
+        
+    } 
+    .honored{
+        color: black;
+        margin-left: 300px;
+        margin-top: -200px;
+        font-size: 15px;
+    }
+    .journey{
+        color: black;
+        margin-left: 550px;
+        margin-top: -65px;
+        font-size: 15px;
+    } 
+    .stories{
+        color: black;
+        margin-left: 150px;
+        margin-top: 45px;
+        font-size: 15px;
+    }
+    img{
+        margin-top: 100px;
+        height: 500px;
+        width: 740px; 
+    }
+    .Google{
+        color: black;
+        font-size: 40px;
+        margin-left: 250px;
+        margin-top: -140px;
+    }
+    .arrow{
+        color: orangered;
+        font-size: 30px;
+    }
+    .strategy{
+        font-size: 15px;
+        margin-left: 250px;
+    }
+    .dash1{
+        color: black;
+        margin-left: 250px;
+        margin-top: -55px;
+    }
+    .Amazon{
+        color: black;
+        font-size: 40px;
+        margin-left: 250px;
+    } 
+    .CASES{
+        margin-left: 30px;
+        margin-top: -50px;
+    } 
+}
+
+@media (min-width:820px) and (max-width:834px) {
+    body{
+       height: 2720px;
+   } 
+   
+   .light {
+       margin-left: 60px;
+   }
+   .CONSULT {
+       margin-left: 480px;
+       margin-top: 60px;
+   }
+   .ght {
+       margin-left: 50px;
+       font-size: 65px;
+   }
+   .way {
+       margin-left: 580px;
+       font-size: 65px;
+       margin-top: -130px;
+   }
+   .marketing {
+       font-size: 85px;
+       margin-left: 100px;
+   }
+   .DISCUSS {
+       margin-top: 20px;
+   }
+   .team{
+    margin-left: 80px;
+   }
+   .innovators {
+       margin-left: 400px;
+   }
+   .menu {
+       margin-left: 700px;
+   }
+   .problem{
+       font-size: 30px;
+   }
+   .clients{
+       font-size: 40px;
+       color: red;
+   }
+   .ents{
+       font-size: 30px;
+   }
+   .in{
+       margin-left: 150px;
+   }
+   .p320{
+       margin-left: 350px;
+       margin-top: 100px;
+   }
+   .dash{
+       margin-left: 350px;
+       margin-top: -30px;
+   } 
+   .img1 img{
+       width: 280px;
+       height: 500px;
+       margin-top: -650px;
+       margin-bottom: 10px;
+       margin-left: 10px;
+       background-color: black;
+   }
+   .footer{
+       background-color: white;
+       height: 1250px;
+       border: 2px solid white;
+       border-radius: 0 0 45px 45px;
+   } 
+   .big{
+       font-size: 70px;
+       color: black;
+       margin-left: 10px;
+   }
+   .names{
+       color: orangered;
+       margin-left: 250px;
+       
+       
+   } 
+   .honored{
+       color: black;
+       margin-left: 300px;
+       margin-top: -200px;
+       font-size: 15px;
+   }
+   .journey{
+       color: black;
+       margin-left: 550px;
+       margin-top: -65px;
+       font-size: 15px;
+   } 
+   .stories{
+       color: black;
+       margin-left: 150px;
+       margin-top: 45px;
+       font-size: 15px;
+   }
+   img{
+       margin-top: 100px;
+       height: 500px;
+       width: 795px; 
+   }
+   .Google{
+       color: black;
+       font-size: 40px;
+       margin-left: 290px;
+       margin-top: -140px;
+   }
+   .arrow{
+       color: orangered;
+       font-size: 30px;
+   }
+   .strategy{
+       font-size: 15px;
+       margin-left: 250px;
+   }
+   .dash1{
+       color: black;
+       margin-left: 290px;
+       margin-top: -55px;
+   }
+   .Amazon{
+       color: black;
+       font-size: 40px;
+       margin-left: 290px;
+   } 
+   .CASES{
+       margin-left: 30px;
+       margin-top: -50px;
+   }
+}
+
+@media (min-width:874px) and (max-width:884px) {
+    body{
+       height: 2840px;
+   } 
+   
+   .light {
+       margin-left: 60px;
+   }
+   .CONSULT {
+       margin-left: 540px;
+       margin-top: 60px;
+   }
+   .ght {
+       margin-left: 50px;
+       font-size: 80px;
+   }
+   .way {
+       margin-left: 600px;
+       font-size: 80px;
+       margin-top: -160px;
+   }
+   .marketing {
+       font-size: 100px;
+       margin-left: 70px;
+   }
+   .DISCUSS {
+       margin-top: 20px;
+       font-size: 30px;
+   }
+   .team{
+    margin-left: 80px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+   }
+   .innovators {
+       margin-left: 400px;
+       font-size: 25px;
+       
+   }
+   .menu {
+       margin-left: 700px;
+       font-size: 25px;
+   }
+   .problem{
+       font-size: 40px;
+   }
+   .clients{
+       font-size: 40px;
+       color: red;
+   }
+   .ents{
+       font-size: 30px;
+   }
+   .in{
+       margin-left: 150px;
+   }
+   .p320{
+       margin-left: 400px;
+       margin-top: 100px;
+   }
+   .dash{
+       margin-left: 400px;
+       margin-top: -30px;
+   } 
+   .img1 img{
+       width: 340px;
+       height: 500px;
+       margin-top: -650px;
+       margin-bottom: 10px;
+       margin-left: 10px;
+       background-color: black;
+   }
+   .footer{
+       background-color: white;
+       height: 1250px;
+       border: 2px solid white;
+       border-radius: 0 0 45px 45px;
+   } 
+   .big{
+       font-size: 90px;
+       color: black;
+       margin-left: 10px;
+   }
+   .names{
+       color: orangered;
+       margin-left: 270px;
+   } 
+   .honored{
+       color: black;
+       margin-left: 350px;
+       margin-top: -250px;
+       font-size: 15px;
+   }
+   .journey{
+       color: black;
+       margin-left: 650px;
+       margin-top: -65px;
+       font-size: 15px;
+   } 
+   .stories{
+       color: black;
+       margin-left: 170px;
+       margin-top: 45px;
+       font-size: 15px;
+   }
+   img{
+       margin-top: 100px;
+       height: 500px;
+       width: 860px; 
+   }
+   .Explore{
+    margin-left: 40px;
+   }
+   .Google{
+       color: black;
+       font-size: 40px;
+       margin-left: 350px;
+       margin-top: -140px;
+   }
+   .arrow{
+       color: orangered;
+       font-size: 30px;
+   }
+   .strategy{
+       font-size: 15px;
+       margin-left: 250px;
+   }
+   .dash1{
+       color: black;
+       margin-left: 350px;
+       margin-top: -55px;
+   }
+   .Amazon{
+       color: black;
+       font-size: 40px;
+       margin-left: 350px;
+   } 
+   .CASES{
+       margin-left: 40px;
+       margin-top: -50px;
+   }
+}
+
+@media (min-width:1014px) and (max-width:1114px) {
+    body{
+       height: 3044px;
+   } 
+   
+   .light {
+       margin-left: 60px;
+   }
+   .CONSULT {
+       margin-left: 680px;
+       margin-top: 60px;
+   }
+   .ght {
+       margin-left: 50px;
+       font-size: 100px;
+   }
+   .way {
+       margin-left: 690px;
+       font-size: 100px;
+       margin-top: -210px;
+   }
+   .marketing {
+       font-size: 120px;
+       margin-left: 70px;
+   }
+   .DISCUSS {
+       margin-top: 20px;
+       font-size: 30px;
+       margin-left: 80px;
+   }
+   .team{
+    margin-left: 120px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+   }
+   .innovators {
+       margin-left: 500px;
+       font-size: 25px;
+       
+   }
+   .menu {
+       margin-left: 850px;
+       font-size: 25px;
+   }
+   .problem{
+       font-size: 60px;
+   }
+   .clients{
+       font-size: 40px;
+       color: red;
+   }
+   .ents{
+       font-size: 30px;
+   }
+   .in{
+       margin-left: 150px;
+   }
+   .p320{
+       margin-left: 600px;
+       margin-top: 100px;
+   }
+   .dash{
+       margin-left: 600px;
+       margin-top: -30px;
+   } 
+   .img1 img{
+       width: 400px;
+       height: 520px;
+       margin-top: -650px;
+       margin-bottom: 10px;
+       margin-left: 10px;
+       background-color: black;
+   }
+   .footer{
+       background-color: white;
+       height: 1300px;
+       border: 2px solid white;
+       border-radius: 0 0 45px 45px;
+   } 
+   .big{
+       font-size: 110px;
+       color: black;
+       margin-left: 10px;
+   }
+   .names{
+       color: orangered;
+       margin-left: 500px;
+   } 
+   .honored{
+       color: black;
+       margin-left: 450px;
+       margin-top: -320px;
+       font-size: 20px;
+   }
+   .journey{
+       color: black;
+       margin-left: 750px;
+       margin-top: -85px;
+       font-size: 20px;
+   } 
+   .stories{
+       color: black;
+       margin-left: 270px;
+       margin-top: 45px;
+       font-size: 20px;
+   }
+   img{
+       margin-top: 100px;
+       height: 500px;
+       width: 1090px; 
+   }
+   .Explore{
+    margin-left: 40px;
+   }
+   .Google{
+       color: black;
+       font-size: 40px;
+       margin-left: 580px;
+       margin-top: -140px;
+   }
+   .arrow{
+       color: orangered;
+       font-size: 30px;
+   }
+   .strategy{
+       font-size: 15px;
+       margin-left: 250px;
+   }
+   .dash1{
+       color: black;
+       margin-left: 580px;
+       margin-top: -55px;
+   }
+   .Amazon{
+       color: black;
+       font-size: 40px;
+       margin-left: 580px;
+   } 
+   .CASES{
+       margin-left: 40px;
+       margin-top: -50px;
+   }
+}
+@media (min-width:320px) and (max-width:430px) {
+    body{
+       height: 344.5vh;
+   } 
+   
+   .light {
+       margin-left: 10px;
+       font-size: 12px;
+   }
+   .CONSULT {
+       margin-left: 200px;
+       margin-top: 70px;
+       font-size: 15px;
+   }
+   .ght {
+       margin-left: 20px;
+       font-size: 40px;
+   }
+   .way {
+       margin-left:240px;
+       font-size: 40px;
+       margin-top: -85px;
+   }
+   .marketing {
+       font-size: 40px;
+       margin-left: 25px;
+       margin-top: 20px;
+   } 
+   .DISCUSS {
+       margin-top: 20px;
+       font-size: 15px;
+       margin-left: 20px;
+   }
+   .team{
+    margin-left: 10px;
+    font-size: 10px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+   }
+   .innovators {
+       margin-left: 120px;
+       font-size: 10px;
+       margin-top: -30px;
+       
+   }
+   .menu {
+       margin-left: 250px;
+       font-size: 15px;
+       margin-top: -40px;
+   }
+   .problem{
+       font-size: 15px;
+       margin-top: 40px;
+       margin-left: 10px;
+   }
+   
+
+   
+   
+
+.clients {
+    font-size: 40px;
+    color: red;
+}
+.ents {
+    font-size: 30px;
+}
+.in {
+    margin-left: 50px;
+}
+.p320 {
+    margin-left: 10px;
+    margin-top: 20px;
+    position: relative;
+}
+.dash {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 150px;
+    font-size: 11px;
+    position: relative;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .p320 {
+        margin-top: 0; 
+    }
+    .dash {
+        margin-top: 5px; 
+    }
+}
+.img1 img{
+    width: 250px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 40px;
+} 
+   .footer{
+       background-color: white;
+       height: 1300px;
+       border: 2px solid white;
+       border-radius: 0 0 45px 45px;
+   } 
+   .big{
+       font-size: 40px;
+       color: black;
+       margin-left: 10px;
+   }
+   .names{
+       color: orangered;
+       margin-left: 200px;
+   } 
+   .honored{
+       color: black;
+       font-size: 11px;
+       color: black;
+       margin-left: 150px;
+       margin-top:-210px;
+   }
+   .journey{
+       color: black;
+       font-size: 11px;
+        margin-left: 220px;
+        margin-top: -7px;
+   } 
+   .stories{
+       color: black; 
+       font-size: 11px;
+       color: black;
+        margin-left: 100px;
+        margin-top: -5px;
+   }
+   img{
+       margin-top: 70px;
+       height: 500px;
+       width: 330px; 
+   }
+   .Explore{
+    margin-left: 40px;
+   }
+   .Google{
+       color: black;
+       font-size: 20px;
+       margin-left: 10px;
+       margin-top: -5px;
+   }
+   .arrow{
+       color: orangered;
+       font-size: 20px;
+   }
+   .strategy{
+       font-size: 15px;
+       margin-left: 250px;
+   }
+   .advert{
+        margin-left: 250px;
+   }
+   .branding{
+    margin-left: 190px;
+   }
+   .media{
+        margin-left: 270px;
+   }
+   .dash1{
+       color: black;
+       margin-left: 10px;
+       margin-top: -10px;
+       font-size: 11px;
+   }
+   .Amazon{
+       color: black;
+       font-size: 20px;
+       margin-left: 10px;
+   } 
+   .CASES{
+       margin-left: 40px;
+       margin-top: 30px;
+   }
+}
+
+
+
+
+@media (min-width:393px) and (max-height:851px) {
+    body{
+        height: 321vh;
+    } 
+}
+@media (min-width:412px) and (max-height:915px) {
+    body{
+        height: 295vh;
+    } 
+}
+@media (min-width:360px) and (max-height:880px) {
+    body{
+        height: 311.5vh;
+    } 
+}
+@media (min-width:360px) and (max-height:804px) {
+    body{
+        height: 342.5vh;
+    } 
+}
+@media (min-width:360px) and (max-height:780px) {
+    body{
+        height: 353vh;
+    } 
+}
+
+
+
+
+
+
+
+
+
+
+
+/* (max-width: 768px)
+(max-width: 169px)
+(max-width: 375px)
+(max-width: 587px)
+(max-width: 847px) */
+
+
+
+ 
+
+
